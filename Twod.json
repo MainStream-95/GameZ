@@ -1,6 +1,1 @@
-{
-      "set": "1,621.55",
-      "value": "53,762.32",
-      "open_time": "12:01:00",
-      "twod": "52"
-    }
+{"server_time":"2024-10-30 15:46:44","live":{"set":"1,444.37","value":"33,643.54","time":"2024-10-30 15:46:41","twod":"73","date":"2024-10-30"},"result":[{"set":"1,450.13","value":"14,760.56","open_time":"11:00:00","twod":"30","stock_date":"2024-10-30","stock_datetime":"2024-10-30 11:00:00","history_id":"1708749"},{"set":"1,450.67","value":"18,424.83","open_time":"12:01:00","twod":"74","stock_date":"2024-10-30","stock_datetime":"2024-10-30 12:01:01","history_id":"1709157"},{"set":"1,447.71","value":"28,532.82","open_time":"15:00:00","twod":"12","stock_date":"2024-10-30","stock_datetime":"2024-10-30 15:00:02","history_id":"1710090"},{"set":"--","value":"--","open_time":"16:30:00","twod":"--","stock_date":"2024-10-30","stock_datetime":"2024-10-30 15:46:44","history_id":null}],"holiday":{"status":"2","date":"2024-10-30","name":"NULL"}}
